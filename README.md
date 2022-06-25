@@ -1,4 +1,8 @@
-# Marginal distributions and correation coefficient  
+### EX.NO : 03
+
+### DATE : 
+
+# <p align="center">  Marginal distributions and correation coefficient   </p> 
 
 # Aim : 
 
